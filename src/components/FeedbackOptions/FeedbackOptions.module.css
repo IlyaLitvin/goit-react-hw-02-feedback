@@ -1,0 +1,12 @@
+.button {
+  width: 60px;
+  height: 20px;
+  background-color: #420f75;
+  color: aliceblue;
+  margin-bottom: 5px;
+  border: 1px solid goldenrod;
+  border-radius: 5px;
+}
+.button:not(:last-child) {
+  margin-right: 5px;
+}
